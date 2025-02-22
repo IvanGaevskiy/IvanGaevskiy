@@ -1,11 +1,11 @@
 ```
-stack = %w[
-         Ruby       Ruby on Rails JavaScript SQL             
-         PostgreSQL Sqlite3       Redis      Git             
-         Github     Gitlub        Bitbucket  GraphQL+REST-API
-         ActiveJob  Sidekiq       Kafka      RabbitMQ        
-         Docker     Linux         CI/CD      SOLID           
-]
+stack =%w[
+           Ruby       Ruby on Rails JavaScript SQL             
+           PostgreSQL Sqlite3       Redis      Git             
+           Github     Gitlub        Bitbucket  GraphQL+REST-API
+           ActiveJob  Sidekiq       Kafka      RabbitMQ        
+           Docker     Linux         CI/CD      SOLID           
+         ]
 
 ```
 
