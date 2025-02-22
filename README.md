@@ -1,11 +1,14 @@
 ```
-stack = ['Ruby PostgreSQL','Docker',         'Ruby On Rails',  'GitHub',
-         'Sidekiq',        'Linux',          'Gitlab',         'Redis',
-         'SQL',            'Bootstrap',      'Kafka',          'Git',
-         'GraphQL',        'Karafka',        'OOP',            'SOLID',
-         'REST-API',       'RabbitMQ']
+stack = %w[
+         Ruby       Ruby on Rails JavaScript SQL             
+         PostgreSQL Sqlite3       Redis      Git             
+         Github     Gitlub        Bitbucket  GraphQL+REST-API
+         ActiveJob  Sidekiq       Kafka      RabbitMQ        
+         Docker     Linux         CI/CD      SOLID           
+]
+
 ```
 
 [Моя страничка](https://ivangaevskiy.github.io/resume/)
 
-[Скачать резюме в PDF](https://ivangaevskiy.github.io/resume/pdf_rus.pdf)
+[Скачать резюме в PDF](https://ivangaevskiy.github.io/resume/pdf_rus2.pdf)
